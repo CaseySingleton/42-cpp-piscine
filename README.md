@@ -1,2 +1,2 @@
 # 42-cpp-piscine
-Two week crash corse in c++ at 42 Silicon Valley
+A two week c++ crash course at 42 Silicon Valley
